@@ -1,8 +1,3 @@
-
-<img src='imgs/horse2zebra.gif' align="right" width=384>
-
-<br><br><br>
-
 # pix2pix
 
 **Pix2pix:  [Project](https://phillipi.github.io/pix2pix/) |  [Paper](https://arxiv.org/pdf/1611.07004.pdf) |  [Torch](https://github.com/phillipi/pix2pix) |
